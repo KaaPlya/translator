@@ -1,0 +1,4 @@
+# translator
+
+
+pip install translate
